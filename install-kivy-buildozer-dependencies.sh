@@ -56,6 +56,8 @@ sudo apt install -y \
     autotools-dev \
     pkgconf \
     libtool \
+    lld \
+    zip \
     cmake
 
 # Install Buildozer
