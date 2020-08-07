@@ -58,7 +58,8 @@ sudo apt install -y \
     libtool \
     lld \
     zip \
-    cmake
+    cmake \
+    clang
 
 # Install Buildozer
 mkdir ~/buildozer-repo
