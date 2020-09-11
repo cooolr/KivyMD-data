@@ -23,7 +23,8 @@ sudo apt-get install -y \
     libswscale-dev \
     libavformat-dev \
     libavcodec-dev \
-    zlib1g-dev
+    zlib1g-dev \
+    openjdk-8-jdk
 
 # Dependencies Kivy
 sudo pip3 install cython
