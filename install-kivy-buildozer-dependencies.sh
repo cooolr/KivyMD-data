@@ -9,7 +9,6 @@ sudo python3 get-pip.py
 # Dependencies with SDL2
 # Install necessary system packages
 sudo apt-get install -y \
-    python-pip \
     build-essential \
     git \
     python \
