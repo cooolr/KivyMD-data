@@ -36,6 +36,7 @@ sudo apt install -y \
     build-essential \
     ccache \
     git \
+    unzip \
     libncurses5:i386 \
     libstdc++6:i386 \
     libgtk2.0-0:i386 \
