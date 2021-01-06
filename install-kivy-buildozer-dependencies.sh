@@ -52,6 +52,7 @@ sudo apt install -y \
     libltdl-dev \
     libffi-dev \
     libssl-dev \
+    dh-autoreconf \
     automake \
     autoconf \
     autotools-dev \
