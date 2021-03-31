@@ -35,20 +35,19 @@ sudo pip3 install kivy
 sudo apt install -y \
     build-essential \
     ccache \
-    git \
     unzip \
-    libncurses5:i386 \
-    libstdc++6:i386 \
-    libgtk2.0-0:i386 \
-    libpangox-1.0-0:i386 \
-    libpangoxft-1.0-0:i386 \
-    libidn11:i386 \
+    libncurses5 \
+    libstdc++6 \
+    libgtk2.0-0 \
+    libpangox-1.0-0 \
+    libpangoxft-1.0-0 \
+    libidn11 \
     python2.7 \
     python2.7-dev \
     openjdk-8-jdk \
     unzip \
     zlib1g-dev \
-    zlib1g:i386 \
+    zlib1g \
     libltdl-dev \
     libffi-dev \
     libssl-dev \
