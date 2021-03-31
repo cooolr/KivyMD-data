@@ -21,9 +21,7 @@ sudo apt-get install -y \
     libportmidi-dev \
     libswscale-dev \
     libavformat-dev \
-    libavcodec-dev \
-    zlib1g-dev \
-    openjdk-8-jdk
+    libavcodec-dev 
 
 # Dependencies Kivy
 sudo pip3 install cython
@@ -33,7 +31,6 @@ sudo pip3 install kivy
 
 # Dependencies Buildozer
 sudo apt install -y \
-    build-essential \
     ccache \
     unzip \
     libncurses5 \
@@ -45,7 +42,6 @@ sudo apt install -y \
     python2.7 \
     python2.7-dev \
     openjdk-8-jdk \
-    unzip \
     zlib1g-dev \
     zlib1g \
     libltdl-dev \
